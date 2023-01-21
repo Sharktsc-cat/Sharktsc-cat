@@ -1,8 +1,8 @@
 ### MY NAME IS SHARK : MY TEAM TSC
 > [--> discord me](https://discord.gg/8uHYmC3NmJ)
-> #
+------
 > [--> facebook me](https://www.facebook.com/chanudom.tor)\
-> #
+------
 > [--> instagram me](https://www.instagram.com/x._.chanudom/)
 #
 ![TSC](https://github.com/Sharktsc-cat/Sharktsc-cat/blob/main/logoTSC-removebg-preview.png)
