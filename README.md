@@ -1,5 +1,5 @@
 ### MY NAME IS SHARK : MY TEAM TSC
-![TSC](https://github.com/Sharktsc-cat/Sharktsc-cat/image-removebg-preview.png)
+![TSC](https://github.com/Sharktsc-cat/Sharktsc-cat/blob/main/image-removebg-preview.png)
 <!--
 **Sharktsc-cat/Sharktsc-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
