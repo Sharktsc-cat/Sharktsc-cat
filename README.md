@@ -3,10 +3,10 @@
 - [ 💬facebook me](https://www.facebook.com/chanudom.tor)
 - [ 💬instagram me](https://www.instagram.com/x._.chanudom/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+-*** 🔭 I’m currently working on ...***
+-*** 🌱 I’m currently learning ...***
+-*** 👯 I’m looking to collaborate on ...***
+-*** 💬 Ask me about ...***
 
 | ภาษา🔭       |ความถนัด⚡      |
 | ------------- |:-------------:| 
