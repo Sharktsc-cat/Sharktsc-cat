@@ -1,5 +1,5 @@
 ### MY NAME IS SHARK : MY TEAM TSC
-[--> discord me](https://discord.gg/8uHYmC3NmJ)
+[--> discord me](https://discord.gg/8uHYmC3NmJ)\n
 [--> facebook me](https://www.facebook.com/chanudom.tor)
 [--> instagram me](https://www.instagram.com/x._.chanudom/)
 #
