@@ -3,10 +3,6 @@
 - [ 💬facebook me](https://www.facebook.com/chanudom.tor)
 - [ 💬instagram me](https://www.instagram.com/x._.chanudom/)
 
--*** 🔭 I’m currently working on ...***
--*** 🌱 I’m currently learning ...***
--*** 👯 I’m looking to collaborate on ...***
--*** 💬 Ask me about ...***
 
 | ภาษา🔭       |ความถนัด⚡      |
 | ------------- |:-------------:| 
@@ -17,7 +13,7 @@
 | pawn          | 90%      |
 | C             | 20%      |
 #
-![TSC](https://github.com/Sharktsc-cat/Sharktsc-cat/blob/main/logoTSC-removebg-preview.png)
+![TSC](https://media.tenor.com/sWQwKN-b5voAAAAM/hacked-you-have-been-hacked.gif)
 <!--
 **Sharktsc-cat/Sharktsc-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
