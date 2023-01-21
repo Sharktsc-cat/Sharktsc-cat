@@ -3,14 +3,15 @@
 - [ 💬facebook me](https://www.facebook.com/chanudom.tor)
 - [ 💬instagram me](https://www.instagram.com/x._.chanudom/)
 
-Colons can be used to align columns.
 
 | ภาษา🔭       |ความถนัด⚡      |
 | ------------- |:-------------:| 
 | python        | 80%           |
 | html/php      | 70%      |
 | java          | 40%      |
-
+| nodejs        | 60%      |
+| pawn          | 90%      |
+| C             | 20%      |
 #
 ![TSC](https://github.com/Sharktsc-cat/Sharktsc-cat/blob/main/logoTSC-removebg-preview.png)
 <!--
