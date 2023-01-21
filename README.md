@@ -6,14 +6,14 @@
 - [ 💬instagram me](https://www.instagram.com/x._.chanudom/)
 
 
-| ภาษา🔭       |ความถนัด⚡      |
+| ภาษา🔭       |ความถนัด⚡      | ทำอะไร     |
 | ------------- |:-----------------------------------------------------:| 
-| python        | 80%           |
-| html/php      | 70%      |
-| java          | 40%      |
-| nodejs        | 60%      |
-| pawn          | 90%      |
-| C             | 20%      |
+| python        | 80%           | DDOS-OTHER |
+| html/php      | 70%      | WEBSITE |
+| java          | 40%      | DDOS-APK |
+| nodejs        | 60%      | BOT DISCORD |
+| pawn          | 90%      | SAMP SERVER |
+| C             | 20%      | APP |
 #
 
 <!--
