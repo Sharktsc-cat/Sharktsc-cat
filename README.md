@@ -1,5 +1,5 @@
 ## MY NAME IS SHARK : MY TEAM TSC
-![TSC](https://steamuserimages-a.akamaihd.net/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://www.wewebplus.com//upload/news/real/pic-122-263.jpg)
+![TSC]([https://www.wewebplus.com//upload/news/real/pic-122-263.jpg])
 
 ## Developer & Cyber Security!
 
