@@ -1,5 +1,5 @@
 ## MY NAME IS SHARK : MY TEAM TSC
-![TSC]([https://www.wewebplus.com//upload/news/real/pic-122-263.jpg)
+![TSC](https://www.wewebplus.com//upload/news/real/pic-122-263.jpg)
 
 ## Developer & Cyber Security!
 
