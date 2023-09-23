@@ -1,5 +1,5 @@
 ## MY NAME IS SHARK
-![TSC]([https://www.wewebplus.com//upload/news/real/pic-122-263.jpg](https://media.discordapp.net/attachments/952743388640333844/1066226247719469096/image.png))
+![TSC](https://media.discordapp.net/attachments/952743388640333844/1066226247719469096/image.png)
 
 ## Developer & Cyber Security!
 
