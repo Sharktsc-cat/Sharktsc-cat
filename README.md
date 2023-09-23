@@ -1,5 +1,5 @@
 ## MY NAME IS SHARK
-![TSC](https://media.discordapp.net/attachments/952743388640333844/1066226247719469096/image.png)
+![TSC](https://cdn.discordapp.com/attachments/952743388640333844/1155022687647838258/image-removebg-preview.png)
 
 ## Developer & Cyber Security!
 
